@@ -1,0 +1,23 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 6' test cases in the current suite                                        
+                                                   Test Method: 'Tests.QAcart_Project.Alerts'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:45.0713 PM
+[ReportManager] Click "Alerts". @29-03-2024 14:00:46.0189 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:46.0355 PM
+[ReportManager] Click "Alert". @29-03-2024 14:00:46.0384 PM
+[ReportManager] Alert is present @29-03-2024 14:00:46.0389 PM
+[ReportManager] Alert is present @29-03-2024 14:00:46.0391 PM
+[ReportManager] Accept alert. @29-03-2024 14:00:46.0395 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:46.0587 PM
+[ReportManager] Click "Prompt". @29-03-2024 14:00:46.0634 PM
+[ReportManager] Alert is present @29-03-2024 14:00:46.0641 PM
+[ReportManager] Alert is present @29-03-2024 14:00:46.0644 PM
+[ReportManager] Text typed into Alert is: [Ahmed Tarek] @29-03-2024 14:00:46.0648 PM
+[ReportManager] Type into prompt alert. @29-03-2024 14:00:46.0649 PM
+[ReportManager] Alert is present @29-03-2024 14:00:46.0657 PM
+[ReportManager] Alert is present @29-03-2024 14:00:46.0662 PM
+[ReportManager] Accept alert. @29-03-2024 14:00:46.0670 PM
+[ReportManager] Perform navigation action "Navigate BACK to https://hatem-hatamleh.github.io/Selenium-html/". @29-03-2024 14:00:46.0750 PM

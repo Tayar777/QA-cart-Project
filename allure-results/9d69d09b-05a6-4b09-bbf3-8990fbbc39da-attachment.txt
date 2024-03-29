@@ -1,0 +1,18 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 6' test cases in the current suite                                        
+                                                    Test Method: 'Tests.QAcart_Project.Waits'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:38.0863 PM
+[ReportManager] Click "Waits". @29-03-2024 14:00:39.0135 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:42.0329 PM
+[ReportManager] Click "Click me". @29-03-2024 14:00:42.0363 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:42.0548 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:43.0871 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:45.0218 PM
+[ReportManager] Click "Secondary". @29-03-2024 14:00:45.0383 PM
+[ReportManager] Alert is present @29-03-2024 14:00:45.0396 PM
+[ReportManager] Alert is present @29-03-2024 14:00:45.0404 PM
+[ReportManager] Accept alert. @29-03-2024 14:00:45.0410 PM
+[ReportManager] Perform navigation action "Navigate BACK to https://hatem-hatamleh.github.io/Selenium-html/". @29-03-2024 14:00:45.0505 PM

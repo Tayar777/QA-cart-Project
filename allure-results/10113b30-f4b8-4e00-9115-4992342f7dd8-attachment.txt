@@ -1,0 +1,29 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 6' test cases in the current suite                                        
+                                                   Test Method: 'Tests.QAcart_Project.Actions'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:35.0172 PM
+[ReportManager] Click "Actions". @29-03-2024 14:00:35.0537 PM
+[ReportManager] Text cleared Using Native Clear @29-03-2024 14:00:35.0654 PM
+[ReportManager] Type "Ahmed" into "First Name". @29-03-2024 14:00:35.0707 PM
+[ReportManager] Text cleared Using Native Clear @29-03-2024 14:00:35.0815 PM
+[ReportManager] Type "Tarek" into "Last Name". @29-03-2024 14:00:35.0864 PM
+[ReportManager] Select "Junior" from "By.name: level". @29-03-2024 14:00:36.0392 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:36.0558 PM
+[ReportManager] Click "Web". @29-03-2024 14:00:36.0588 PM
+[ReportManager] Moved the mouse to the middle of the element. @29-03-2024 14:00:36.0761 PM
+[ReportManager] Click "Click me". @29-03-2024 14:00:36.0795 PM
+[ReportManager] Alert is present @29-03-2024 14:00:36.0812 PM
+[ReportManager] Alert is present @29-03-2024 14:00:36.0815 PM
+[ReportManager] Is alert present. @29-03-2024 14:00:36.0816 PM
+[ReportManager] Alert is present @29-03-2024 14:00:36.0816 PM
+[ReportManager] Alert is present @29-03-2024 14:00:36.0827 PM
+[ReportManager] Alert is present @29-03-2024 14:00:36.0831 PM
+[ReportManager] Alert Text is: [Thank you Ahmed for submitting the form, We have many courses for web automation junior level] @29-03-2024 14:00:36.0835 PM
+[ReportManager] Get alert text. @29-03-2024 14:00:36.0836 PM
+[ReportManager] Alert is present @29-03-2024 14:00:36.0847 PM
+[ReportManager] Alert is present @29-03-2024 14:00:36.0851 PM
+[ReportManager] Accept alert. @29-03-2024 14:00:36.0858 PM
+[ReportManager] Perform navigation action "Navigate BACK to https://hatem-hatamleh.github.io/Selenium-html/". @29-03-2024 14:00:36.0936 PM
